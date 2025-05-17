@@ -4,15 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6c7966f7-5b50-4863-ad56-a9a2a30cc6c0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Electron Simulator.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+    <list default="true" id="6c7966f7-5b50-4863-ad56-a9a2a30cc6c0" name="Changes" comment="Gravity Simulation for Circles">
+      <change afterPath="$PROJECT_DIR$/Electron Simulation.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Circles Gravity Simulation.py" beforeDir="false" afterPath="$PROJECT_DIR$/Circles Gravity Simulation.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,6 +24,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "XumoVoidHD"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/XumoVoidHD/Physics-Engine-.git",
+    "accountId": "b80d9fb7-13fe-49cc-a3c7-fd151d6d2102"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5
 }</component>
@@ -40,7 +47,13 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.Circles Gravity Simulation.executor": "Run",
+    "Python.Collision included.executor": "Run",
+    "Python.Electron Simulation.executor": "Run",
+    "Python.Electron only.executor": "Run",
+    "Python.Positron.executor": "Run",
     "Python.main.executor": "Run",
+    "Python.test.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
@@ -63,6 +76,19 @@
       <option name="presentableId" value="Default" />
       <updated>1747467072020</updated>
     </task>
+    <task id="LOCAL-00001" summary="Gravity Simulation for Circles">
+      <option name="closed" value="true" />
+      <created>1747505210048</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1747505210048</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Gravity Simulation for Circles" />
+    <option name="LAST_COMMIT_MESSAGE" value="Gravity Simulation for Circles" />
   </component>
 </project>
