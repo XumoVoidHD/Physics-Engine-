@@ -13,7 +13,7 @@ This is a simple 2D physics-based simulation built using **Pygame** that visuali
   
 ## Demo
 
-👉 **[Watch the Demo Video Here]([https://youtu.be/4C_PBdVjjtQ])**  
+👉 **[Watch the Demo Video Here](https://youtu.be/4C_PBdVjjtQ)**  
 ## How to Run
 1. Make sure you have Python 3.x installed.
 2. Install Pygame if not already:
