@@ -1,4 +1,4 @@
-# Electron Interaction Simulator
+# Charged Particle Interaction Simulator
 
 This is a simple 2D physics-based simulation built using **Pygame** that visualizes the interactions between charged particles (like electrons and protons) using **Coulomb's Law**. It simulates how particles with like and unlike charges attract or repel each other in real time.
 
