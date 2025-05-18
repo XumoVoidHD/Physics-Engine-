@@ -4,14 +4,14 @@ import random
 
 pygame.init()
 
-SCREEN_WIDTH = 800
-SCREEN_HEIGHT = 600
+k = 8.9875517923e9
+SCREEN_WIDTH = 1080
+SCREEN_HEIGHT = 720
 WALL_DAMPING = 1
 
 screen = pygame.display.set_mode((SCREEN_WIDTH, SCREEN_HEIGHT))
 clock = pygame.time.Clock()
-font = pygame.font.SysFont(None, 24)
-k = 8.9875517923e9
+font = pygame.font.SysFont(None, 12)
 
 
 def check_collision(c1, c2):
@@ -118,7 +118,7 @@ while running:
 
     for i, circle in enumerate(circles):
         info_text = font.render(f"{circle.get_info()}", True, (255, 255, 255))
-        screen.blit(info_text, (SCREEN_WIDTH - 425, 10 + i * 20))
+        screen.blit(info_text, (SCREEN_WIDTH - 200, 10 + i * 20))
 
     pygame.display.update()
 
